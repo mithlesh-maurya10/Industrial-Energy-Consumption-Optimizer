@@ -19,7 +19,7 @@ Action: Engineered an interactive web dashboard using the Streamlit framework.
 Key Features: * Dynamic CSV Upload: Users can upload their specific industrial datasets for instant analysis.
 Real-time Predictor: A manual input interface that predicts energy demand based on current temperature and scheduled production loads.
 
-3. Repository Description & Tags
+**Repository Description & Tags**
 
 **Excel → Python → Machine Learning → XGBoost → Streamlit → Data Analytics → Energy Forecasting**
 
